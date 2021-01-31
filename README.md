@@ -27,3 +27,7 @@ Nous n'avons malheureusement pas réussi à générer de public key à partir d'
 Pour la génération des clé children. Nous avons utilisé le SHA-512 avec comme input notre private key, notre chain code ainsi qu'un index sur 32bit. 
 Nous avons également fais une déclinaison de cette fonction qui utilise également un entier correspondant la dérivation de l'enfant. Ainsi, par recursivité, nous arrivons à obtenir un enfant à un index précis dérrivant lui même d'un enfant à cet index etc 
 
+
+# Temps passé sur le projet: Ensemble : 10H Séparé : environ 4-5h chacun
+
+Nous avons eu du mal à trouver certaines informations très importante et nous aurions aimé avoir une doc peut être un plus concise 

@@ -2,6 +2,7 @@
 
 # Guide de lancement
 Pour lancer le programme, téléchargez le script "blockchain.py" ainsi que english.txt. Mettez les dans le même dossier et tappez dans votre terminal python3 blockchain.py
+Le ficher TD2.ipyb est le google collab sur lequel nous avons travaillé pour ce projet
 # Introduction
 
 Voici le rapport d'Henry Faure-Geors et Alexandre Bauchet concernant le td2 de programmation BlockChain. Vous trouverez également dans ce git notre programme python permettant d'effectuer les différentes tâches demandées.
